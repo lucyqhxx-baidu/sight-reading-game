@@ -2,7 +2,7 @@
 
 给成人钢琴初学者的识谱练习工具。打开网页就能用，不用注册，也不用下载。
 
-**在线试玩：** https://你的用户名.github.io/仓库名/
+**在线试玩：** https://lucyqhxx-baidu.github.io/sight-reading-game/
 
 ## 能练什么
 
